@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_antalAktier_default"
+        android:key="@string/pref_antalAktier_key"
+        android:title="@string/pref_antalAktier_label" />
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_koebskurs__default"
+        android:key="@string/pref_koebskurs_key"
+        android:title="@string/pref_koebskurs_label" />
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_kurtage_default"
+        android:key="@string/pref_kurtage_key"
+        android:title="@string/pref_kurtage_label" />
+
+</PreferenceScreen>

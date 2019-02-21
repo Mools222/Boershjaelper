@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Time 18 - Boershjaelper</string>
+
+    <string name="pref_antalAktier_key" translatable="false">antalAktier</string>
+    <string name="pref_koebskurs_key" translatable="false">koebskurs</string>
+    <string name="pref_kurtage_key" translatable="false">kurtage</string>
+
+    <string name="pref_antalAktier_default" translatable="false">1</string>
+    <string name="pref_koebskurs__default" translatable="false">1.0</string>
+    <string name="pref_kurtage_default" translatable="false">58</string>
+
+    <string name="pref_antalAktier_label">Antal aktier</string>
+    <string name="pref_koebskurs_label">Købskurs</string>
+    <string name="pref_kurtage_label">Kurtage</string>
+
+
+</resources>
